@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ DynamicButton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=text\ paraction
+comment1.target=DynamicButton(java.lang.String,\ int)
+comment2.params=text\ paraction\ parOffset
+comment2.target=DynamicButton(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ onClickAction()
+numComments=4

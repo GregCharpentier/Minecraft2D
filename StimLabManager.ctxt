@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ generateStimLabSlots()
+comment1.params=
+comment1.target=void\ refresh()
+comment2.params=
+comment2.target=boolean\ checkCrafting()
+comment3.params=
+comment3.target=void\ cutStacks()
+comment4.params=type\ damage
+comment4.target=Slot\ s(int,\ int)
+comment5.params=item
+comment5.target=void\ produce(Slot)
+numComments=6

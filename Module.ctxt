@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Module\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=slots
+comment1.target=void\ setModSlots(Slot[])
+comment2.params=module
+comment2.target=void\ attachModule(java.lang.String)
+comment3.params=
+comment3.target=void\ removeModule()
+comment4.params=
+comment4.target=java.lang.String\ getCurrentModule()
+comment5.params=
+comment5.target=void\ onRemove()
+comment6.params=
+comment6.target=void\ refresh()
+comment7.params=
+comment7.target=void\ cutStacks()
+comment8.params=
+comment8.target=void\ addSlots()
+numComments=9

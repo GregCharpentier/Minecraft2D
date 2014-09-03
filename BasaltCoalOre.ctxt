@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ BasaltCoalOre\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=BasaltCoalOre()
+comment2.params=
+comment2.target=java.lang.String\ getItemName()
+comment3.params=
+comment3.target=int\ itemOnDestroy()
+comment4.params=
+comment4.target=int\ blockTier()
+numComments=5

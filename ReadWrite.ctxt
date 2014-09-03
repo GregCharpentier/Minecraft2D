@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=string
+comment0.target=boolean\ checkExists(java.lang.String)
+comment1.params=aFile
+comment1.target=java.lang.String\ getContents(java.io.File)
+comment2.params=aFile\ aContents
+comment2.target=void\ setContents(java.io.File,\ java.lang.String)
+comment3.params=filename\ obj
+comment3.target=void\ writeObjectFile(java.lang.String,\ java.lang.Object)
+comment4.params=theClass\ string
+comment4.target=java.lang.Object\ readObjectFile(java.lang.Class,\ java.lang.String)
+comment5.params=fileName\ contents
+comment5.target=void\ write(java.lang.String,\ java.lang.String)
+comment6.params=fileName
+comment6.target=java.lang.String\ read(java.lang.String)
+numComments=7

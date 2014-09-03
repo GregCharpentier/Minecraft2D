@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Plant3()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Plant3\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getItemName()
+comment2.params=
+comment2.target=int\ itemOnDestroy()
+comment3.params=
+comment3.target=int[]\ itemOnDestroyMultiple()
+comment4.params=
+comment4.target=int[]\ itemOnDestroyMultipleAmount()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ shadeImage()
+numComments=6

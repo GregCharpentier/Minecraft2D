@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=parType\ parX\ parY
+comment0.target=HelpMenu(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ disableUnderButtons()
+comment2.params=
+comment2.target=void\ clearButtons()
+comment3.params=
+comment3.target=void\ close()
+comment4.params=parMode
+comment4.target=void\ changeButtons(int)
+numComments=5

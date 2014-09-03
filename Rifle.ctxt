@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getItemName()
+comment1.params=
+comment1.target=Projectile\ getFiredProjectile()
+comment2.params=
+comment2.target=int\ barrelLength()
+comment3.params=
+comment3.target=int\ barrelHeight()
+comment4.params=
+comment4.target=int\ cooldownTime()
+comment5.params=
+comment5.target=float\ getFirepower()
+comment6.params=
+comment6.target=float\ getProjectileDamage()
+comment7.params=
+comment7.target=int\ deviation()
+comment8.params=
+comment8.target=int\ numberOfProjectiles()
+numComments=9

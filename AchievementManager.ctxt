@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ initialize()
+comment1.params=ach
+comment1.target=Achievement\ getAchievement(java.lang.String)
+comment2.params=achievement
+comment2.target=boolean\ achieve(java.lang.String)
+numComments=3

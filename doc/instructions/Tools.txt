@@ -1,0 +1,11 @@
+Tools:
+
+The player can create tools in order to destroy 
+blocks faster. These tools are:
+-Pickaxes: Allows faster mining and allows more
+types of minerals/ores to be harvested.
+-Shovels: Allows dirt-like substances to be 
+destroyed faster
+-Axes: Allows wood to be destroyed faster
+-Hammers: Allows breakage of walls (background
+tiles)

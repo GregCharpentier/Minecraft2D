@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=java.lang.String\ getItemName()
+comment10.params=
+comment10.target=void\ onRemove()
+comment11.params=
+comment11.target=boolean\ isCollidable()
+comment2.params=
+comment2.target=DoorBottom()
+comment3.params=bottom
+comment3.target=DoorBottom(DoorBottom)
+comment4.params=startingpoint
+comment4.target=int[]\ boundingBox(int[])
+comment5.params=
+comment5.target=void\ initializeShading()
+comment6.params=id
+comment6.target=void\ onRightClick(int)
+comment7.params=
+comment7.target=void\ toggle()
+comment8.params=light
+comment8.target=greenfoot.GreenfootImage\ getLightImage(int)
+comment9.params=x\ y
+comment9.target=boolean\ onPlace(int,\ int)
+numComments=12

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MCWorld()
+comment1.params=
+comment1.target=void\ updateBackground()
+comment2.params=a\ pos
+comment2.target=void\ addObject(greenfoot.Actor,\ Vec2)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ onPauseFrame()
+numComments=5

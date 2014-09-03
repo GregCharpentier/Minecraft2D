@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ material()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ dirt\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getItemName()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getResistance()
+comment4.params=
+comment4.target=Platform()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ shadeImage()
+comment6.params=startingpoint
+comment6.target=int[]\ boundingBox(int[])
+comment7.params=
+comment7.target=boolean\ isTransparent()
+numComments=8

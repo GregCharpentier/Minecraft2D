@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GenerationManager()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GenerationManager\r\n
+comment1.params=y
+comment1.target=int\ sampleMethod(int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=x\ y
+comment2.target=void\ plantTree(int,\ int)
+comment3.params=chance
+comment3.target=boolean\ chance(int)
+comment4.params=range
+comment4.target=int\ rand(int)
+comment5.params=size\ x\ y
+comment5.target=void\ clearBubble(int,\ int,\ int)
+comment6.params=size\ id\ x\ y
+comment6.target=void\ oreDeposit(int,\ int,\ int,\ int)
+comment7.params=x\ y\ size
+comment7.target=void\ generateCave(int,\ int,\ int)
+comment8.params=
+comment8.target=void\ generateInitialLandscape()
+numComments=9

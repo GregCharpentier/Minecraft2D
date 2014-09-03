@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=side\ mob
+comment0.target=Entity\ generateMob(boolean,\ PhysicalMob)
+comment0.text=\r\n\ Places\ mob\ at\ side\ of\ screen\ if\ not\ blocked\r\n
+comment1.params=
+comment1.target=void\ spawnMonster()
+comment2.params=
+comment2.target=void\ spawnFriendly()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

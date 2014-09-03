@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ knockback()
+comment2.params=
+comment2.target=Slot\ drop()
+comment3.params=damage
+comment3.target=boolean\ damage(float)
+comment4.params=
+comment4.target=void\ death()
+comment5.params=
+comment5.target=void\ dropDrops()
+numComments=6

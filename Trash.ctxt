@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Trash\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=i\ j
+comment1.target=Trash(int,\ int)
+comment2.params=
+comment2.target=void\ hoverCheck()
+comment3.params=
+comment3.target=boolean\ isOver()
+comment4.params=
+comment4.target=java.lang.String\ isClicked()
+comment5.params=
+comment5.target=void\ clickCheck()
+numComments=6

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CraftingManager()
+comment1.params=
+comment1.target=void\ generateCraftingSlots()
+comment2.params=
+comment2.target=void\ generateCraftingBenchSlots()
+comment3.params=
+comment3.target=void\ cutStacks()
+comment4.params=
+comment4.target=void\ refresh()
+comment5.params=array
+comment5.target=Slot[][]\ exfoliate(Slot[])
+comment5.text=\r\n\ converts\ a\ 9\ array\ into\ a\ 3x3\ array\r\n
+comment6.params=bench\ id\ num\ damage
+comment6.target=void\ produce(boolean,\ int,\ int,\ int)
+numComments=7

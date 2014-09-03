@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=int[]\ box()
+comment2.params=
+comment2.target=int\ getHitImmunityLength()
+comment3.params=
+comment3.target=Entity()
+comment4.params=wrld
+comment4.target=void\ addedToWorld(greenfoot.World)
+comment5.params=
+comment5.target=void\ onFrame()
+comment6.params=
+comment6.target=void\ refreshLocation()
+comment7.params=xx\ yy
+comment7.target=void\ setLoc(int,\ int)
+comment8.params=
+comment8.target=boolean\ remove()
+comment8.text=\r\n\ Removes\ entity\ from\ entity\ list\ and\ world,\ returns\ true\ if\ entity\ was\ on\ the\ entity\ list\r\n
+numComments=9

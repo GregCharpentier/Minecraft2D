@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=title\ icon\ points
+comment0.target=AchievementPopup(java.lang.String,\ greenfoot.GreenfootImage,\ int)
+comment1.params=s
+comment1.target=java.lang.String\ shorten(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

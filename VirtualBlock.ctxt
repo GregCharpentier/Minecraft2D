@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getID()
+comment1.params=
+comment1.target=int\ getDamage()
+comment10.params=block
+comment10.target=VirtualBlock(Block)
+comment2.params=
+comment2.target=int\ getQuantity()
+comment3.params=value
+comment3.target=void\ setID(int)
+comment4.params=value
+comment4.target=VirtualBlock\ setDamage(int)
+comment5.params=value
+comment5.target=VirtualBlock\ setQuantity(int)
+comment6.params=id\ quantity\ damage
+comment6.target=VirtualBlock(int,\ int,\ int)
+comment7.params=id\ quantity
+comment7.target=VirtualBlock(int,\ int)
+comment8.params=id\ quantity\ damage
+comment8.target=VirtualBlock(java.lang.String,\ int,\ int)
+comment9.params=id\ quantity
+comment9.target=VirtualBlock(java.lang.String,\ int)
+numComments=11

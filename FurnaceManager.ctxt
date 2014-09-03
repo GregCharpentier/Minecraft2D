@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=furnace
+comment0.target=Slot\ getResult(Furnace)
+comment1.params=furnace
+comment1.target=int[]\ getResult(OpenHearthFurnace)
+comment2.params=
+comment2.target=void\ refresh()
+comment3.params=id
+comment3.target=int\ checkFuel(int)
+comment4.params=
+comment4.target=void\ generateFurnaceSlots()
+numComments=5

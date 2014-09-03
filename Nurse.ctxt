@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Nurse()
+comment1.params=
+comment1.target=int[]\ box()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=grounded
+comment3.target=void\ onBlocked(boolean)
+comment4.params=
+comment4.target=void\ jump()
+numComments=5

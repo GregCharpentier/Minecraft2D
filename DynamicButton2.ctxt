@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=text\ paraction\ x\ y
+comment0.target=DynamicButton2(java.lang.String,\ int,\ int,\ int)
+comment1.params=text\ paraction
+comment1.target=DynamicButton2(java.lang.String,\ int)
+numComments=2

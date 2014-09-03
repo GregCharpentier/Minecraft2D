@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FPS()
+comment0.text=\r\n\ Create\ a\ new\ FPS\ reading.\r\n
+comment1.params=val
+comment1.target=void\ setFPS(java.lang.Long)
+comment1.text=\r\n\ Set\ the\ value\ of\ the\ frames\ per\ second.\r\n\ @param\ val\ the\ value\ to\ set\ the\ FPS\ to.\r\n
+comment2.params=val
+comment2.target=void\ setFPS(java.lang.Double)
+comment2.text=\r\n\ Set\ the\ value\ of\ the\ frames\ per\ second.\r\n\ @param\ val\ the\ value\ to\ set\ the\ FPS\ to.\r\n
+comment3.params=
+comment3.target=double\ getFPS()
+comment3.text=\r\n\ Get\ the\ number\ of\ frames\ per\ second.\r\n\ @return\ the\ number\ of\ frames\ per\ second.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Calculate\ the\ FPS\ based\ on\ the\ mode,\ and\r\n\ update\ the\ reading.\r\n
+comment5.params=value
+comment5.target=void\ updateImage(java.lang.String)
+comment5.text=\r\n\ Draw\ the\ image.\r\n\ @param\ value\ the\ FPS\ value\r\n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=parText\ x\ y\ parheight\ parwidth\ parsize\ parShadow\ parColor
+comment1.target=advTextBox(java.lang.String,\ int,\ int,\ int,\ int,\ float,\ boolean,\ java.awt.Color)
+comment2.params=parText
+comment2.target=void\ getTextImage(java.lang.String)
+numComments=3

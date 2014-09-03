@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getImageName()
+comment1.params=
+comment1.target=double\ gravity()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ rotates()
+comment4.params=
+comment4.target=Vec2\ collisionPoint()
+comment5.params=
+comment5.target=int\ despawnDistance()
+numComments=6

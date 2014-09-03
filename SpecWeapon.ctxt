@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ onHeld()
+comment1.params=
+comment1.target=boolean\ ammoCheck()
+comment10.params=
+comment10.target=int\ maxStackSize()
+comment2.params=
+comment2.target=boolean\ consumeAmmo()
+comment3.params=
+comment3.target=Slot\ ammoItem()
+comment4.params=
+comment4.target=void\ fire()
+comment5.params=
+comment5.target=int\ maxCharge()
+comment5.text=\r\n\ Max\ charge\ for\ charged\ weapons,\ 0\ if\ not\ a\ charged\ weapon\r\n
+comment6.params=
+comment6.target=int\ minCharge()
+comment6.text=\r\n\ If\ a\ charged\ weapon\ is\ released\ with\ a\ charge\ less\ than\ this,\ it\ is\ not\ fired\r\n
+comment7.params=
+comment7.target=int\ cooldownTime()
+comment8.params=
+comment8.target=double\ getChargePercent()
+comment9.params=
+comment9.target=java.lang.String\ getBlockImageName()
+numComments=11

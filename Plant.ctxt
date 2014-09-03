@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=java.lang.String\ getItemName()
+comment2.params=
+comment2.target=boolean\ checkIfAdvance()
+comment3.params=
+comment3.target=int\ getResistance()
+comment4.params=
+comment4.target=int\ itemOnDestroy()
+comment5.params=startingpoint
+comment5.target=int[]\ boundingBox(int[])
+numComments=6

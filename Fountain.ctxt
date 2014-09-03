@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=id
+comment0.target=void\ onRightClick(int)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Fountain\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getItemName()
+comment2.params=
+comment2.target=Fountain()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ shadeImage()
+comment5.params=startingpoint
+comment5.target=int[]\ boundingBox(int[])
+numComments=6

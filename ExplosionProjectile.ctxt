@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vec2\ collisionPoint()
+comment1.params=
+comment1.target=int\ lifeTime()
+comment2.params=
+comment2.target=java.lang.String\ getImageName()
+comment3.params=
+comment3.target=double\ gravity()
+comment4.params=
+comment4.target=boolean\ rotates()
+comment5.params=a
+comment5.target=boolean\ specialCollide(greenfoot.Actor)
+comment6.params=x\ y\ power
+comment6.target=void\ startExplosion(int,\ int,\ float)
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=parMenu
+comment0.target=MenuSwitchButton(java.lang.String)
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ MenuSwitchButton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ getButtonImage()
+comment2.params=
+comment2.target=boolean\ checkMouse()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=parMenu
+comment4.target=void\ onClickAction(java.lang.String)
+numComments=5

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=chunkGridX\ chunkGridY
+comment0.target=Chunk(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Chunk\r\n
+comment1.params=
+comment1.target=int[]\ getBlockArrayCoord()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=chunkArrayX\ chunkArrayY
+comment2.target=void\ activateChunk(int,\ int)
+comment3.params=chunkArrayX\ chunkArrayY
+comment3.target=void\ deactivateChunk(int,\ int)
+comment4.params=
+comment4.target=void\ setAsActive()
+comment5.params=
+comment5.target=void\ setAsInactive()
+comment6.params=
+comment6.target=void\ activateChunk()
+comment7.params=
+comment7.target=void\ deactivateChunk()
+numComments=8

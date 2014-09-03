@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ addTime()
+comment1.params=parTime
+comment1.target=void\ setTime(int)
+comment2.params=time\ maxtime
+comment2.target=int\ getMoonTime(int,\ int)
+comment3.params=
+comment3.target=int\ getRegTime()
+comment4.params=parTime
+comment4.target=void\ setRegTime(int)
+comment5.params=
+comment5.target=int\ getDaylight()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ checkMouse()
+comment1.params=
+comment1.target=void\ getButtonImage()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ onClickAction()
+numComments=4

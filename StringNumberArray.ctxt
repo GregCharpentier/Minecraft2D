@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=string
+comment0.target=StringNumberArray(java.lang.String)
+comment1.params=index
+comment1.target=int\ getMain(int)
+comment2.params=index
+comment2.target=int\ getAux(int)
+comment3.params=list\ index
+comment3.target=int\ getValue(int,\ int)
+comment4.params=str
+comment4.target=void\ loadNumberArray(java.lang.String)
+comment5.params=
+comment5.target=int\ getLength()
+comment6.params=
+comment6.target=int\ getNumberOfLists()
+numComments=7

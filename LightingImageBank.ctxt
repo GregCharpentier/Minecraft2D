@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ initializeBank()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ImageBank\r\n
+comment1.params=image\ bLack
+comment1.target=greenfoot.GreenfootImage[]\ genImages(greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment2.params=id
+comment2.target=void\ genImages(int)
+numComments=3

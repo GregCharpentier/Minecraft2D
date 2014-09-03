@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=length\ width\ color\ x\ y
+comment0.target=AchievementLine(int,\ int,\ java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+numComments=2

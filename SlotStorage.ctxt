@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=SlotStorage(int)
+comment1.params=parSizes\ parTypes\ parDamages
+comment1.target=SlotStorage(int[],\ int[],\ int[])
+comment10.params=
+comment10.target=SlotStorage\ condenseInventory()
+comment11.params=
+comment11.target=java.lang.String\ getString()
+comment2.params=parSizes\ parTypes
+comment2.target=SlotStorage(int[],\ int[])
+comment3.params=
+comment3.target=int[]\ getSizes()
+comment4.params=
+comment4.target=int[]\ getTypes()
+comment5.params=
+comment5.target=int[]\ getDamages()
+comment6.params=index
+comment6.target=int\ getSizeAt(int)
+comment7.params=index
+comment7.target=int\ getTypeAt(int)
+comment8.params=index
+comment8.target=int\ getDamageAt(int)
+comment9.params=
+comment9.target=int\ getSize()
+numComments=12

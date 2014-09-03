@@ -1,0 +1,10 @@
+Controls/Instructions:
+
+Use the A and D keys to move your charachter.
+Use the space key to jump.
+Hold the left mouse button to destroy blocks.
+Click the right m. button to place blocks or use items.
+Press E to open the inventory menu.
+Press Esc to open the pause menu.
+Use the scroll wheel to select items in the toolbar.
+Press Q to switch between toolbars.
